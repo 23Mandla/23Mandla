@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mandla
 - 👀 I’m interested in Web development, software development and mobile apps
-- 🌱 I’m currently in my final year of my diploma in IT and learning java and android app development with java
+- 🌱 I’m currently in my final year of IT and learning android dev with Java
 - 💞️ I’m looking to collaborate : let's talk
 - 📫 How to reach me mandlambolekwa@gmail.com
 - ⚡ Fun fact: ...
