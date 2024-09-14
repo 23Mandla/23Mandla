@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mandla
-- 👀 I’m interested in Web development, software development and mobile apps
+- 👀 I’m interested mobile development
 - 🌱 Currently doing final year in IT and learning android dev with Java
 - 💞️ I’m looking to collaborate : let's talk
 - 📫 How to reach me mandlambolekwa@gmail.com
